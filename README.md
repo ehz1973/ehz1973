@@ -1,9 +1,10 @@
-## Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MAURICIO%20FUENTES&fontAlign=50&fontAlignY=34&fontSize=42&color=0:090014,25:120458,50:00F0FF,75:FF00C8,100:090014&fontColor=F8F8FF&desc=DEVELOPER%20%7C%20BUSINESS%20STRATEGIST&descAlignY=58&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=EXEQUIEL%20HERNANDEZ&fontAlign=50&fontAlignY=34&fontSize=42&color=0:090014,25:120458,50:00F0FF,75:FF00C8,100:090014&fontColor=F8F8FF&desc=PROGRAMADOR%20FULLSTACK%20JAVASCRIPT%20TRAINEE&descAlignY=58&animation=fadeIn" width="100%" alt="Header Banner" />
 
 </div>
+
+## Portafolio de Productos Digitales
 
 <div align="center">
   <a href="https://maufuenb.github.io/maufuenb/">
