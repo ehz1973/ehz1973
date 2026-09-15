@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=#FFFFFF" />
   <img src="https://img.shields.io/badge/API_REST-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Sequelize-0A0A0A?style=for-the-badge&logo=sequelize&logoColor=52B0E7" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=52B0E7" />
   <img src="https://img.shields.io/badge/JWT-0A0A0A?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" />
   </div>
 
