@@ -16,7 +16,7 @@
 
 <br>
 
-## Tecnologías y herramientas
+## Tecnologías y Herramientas
 
 ### 🎨 Front-end
 <div align="left">
