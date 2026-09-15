@@ -6,66 +6,53 @@
 
 ## Portafolio de Productos Digitales
 
-<div align="center">
-  <a href="https://maufuenb.github.io/maufuenb/">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Ingeniero+Inform%C3%A1tico;Administrador+de+Empresas;Vi%C3%B1a+del+Mar%2C+Chile;Construyendo+con+c%C3%B3digo%2C+visi%C3%B3n+y+estrategia;Apoyado+en+IA+%2B+Full-Stack+Pragm%C3%A1tico" alt="Typing Banner" />
-  </a>
-</div>
+| Proyecto | Descripción | Estado | Deployment |
+|---|---|---|---|
+| **Blog** | Desarrollo Fullstack de un blog (CRUD) usando API REST, seguridad JWT y persistencia con Base de Datos. | Público | [Visitar online Vercel/Supabase](https://m8-abp.vercel.app) |
+| **Gestor de Tareas** | Desarrollo Front-end de un gestor de tareas (CRUD) con persistencia en localStorage. | Público | [Visitar online gh-pages](https://ehz1973.github.io/m4-abp-plus/ejercicio5.html) |
+| **Calculadora** | Desarrollo Front-end de una calculadora de valor de envío de una encomienda. | Público | [Visitar online gh-pages](https://ehz1973.github.io/m3-abp-plus/ejercicio3.html) |
 
-<div align="center">
-  <a href="https://maufuenb.github.io/maufuenb/">
-    <img src="https://img.shields.io/badge/🌐_VISITAR_PORTAFOLIO_WEB-0A0A0A?style=for-the-badge&logoColor=00F7FF&labelColor=090014&color=00F7FF" alt="Portafolio Web" />
-  </a>
-</div>
+## Tecnologías y herramientas
 
-<br>
+### Frontend Core & UI
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## `> whoami.exe`
+### Backend, Databases & APIs
 
-```txt
-┌──[ MAURICIO ANDRÉS FUENTES BUSTAMANTE ]
-├── Alias    :: maufuenb | Mafu
-├── Base     :: Viña del Mar, Chile 🇨🇱
-├── Titulo   :: Ingeniero Informático + Administrador de Empresas
-├── Estado   :: Diseñando soluciones con visión técnica y estratégica
-└── Modo     :: Full-Stack pragmático, iterativo y potenciado por IA
-```
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-## `> perfil.sys`
+### Tools & Workflow
 
-> *Combinando tecnología, analítica y visión de negocios para construir soluciones digitales útiles, modernas y con impacto real.*
-
-Mi enfoque es pragmático: conozco diversas tecnologías y aprovecho arquitecturas sólidas, componentes reutilizables e Inteligencia Artificial para acelerar el desarrollo sin perder el foco en la calidad y la necesidad del negocio.
-
-```txt
-> dev.philosophy
-• No reinventar la rueda.
-• Construir con criterio y arquitectura modular.
-• Reutilizar componentes y bibliotecas probadas.
-• Integrar IA donde aporte valor real.
-• Iterar rápido manteniendo el enfoque estratégico.
-```
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ## `> stack.loading`
 
-### 🎨 Frontend Core & UI
+### 🎨 Front-end
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=FF6B6B" />
-  <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=FFE66D" />
-  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=4D96FF" />
-  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/Bootstrap_5-0A0A0A?style=for-the-badge&logo=bootstrap&logoColor=FF00C8" />
-  <img src="https://img.shields.io/badge/jQuery-0A0A0A?style=for-the-badge&logo=jquery&logoColor=7FDBFF" />
-</div>
+  <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Bootstrap-0A0A0A?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+<div>
 
 <br>
 
-### ⚙️ Backend, Databases & APIs
+### ⚙️ Back-end
 <div align="left">
+  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=#FFFFFF" />
+  <img src="https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Sequelize-0A0A0A?style=for-the-badge&logo=sequelize&logoColor=52B0E7" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=B794F4" />
@@ -76,7 +63,7 @@ Mi enfoque es pragmático: conozco diversas tecnologías y aprovecho arquitectur
 
 <br>
 
-### 🛠️ DevOps, Infrastructure & Workflows
+### 🛠️ Herramientas
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=00D1FF" />
   <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032" />
