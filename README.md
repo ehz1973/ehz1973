@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/WordPress-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=7FDBFF" />
 </div>
 
-<br><br>
+<br><br><br>
 
 <div align="center">
 
